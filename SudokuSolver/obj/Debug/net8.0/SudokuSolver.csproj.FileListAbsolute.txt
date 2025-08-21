@@ -1,0 +1,14 @@
+D:\Apps\Visual Studio Projekte\SudokuSolver\SudokuSolver\bin\Debug\net8.0\SudokuSolver.exe
+D:\Apps\Visual Studio Projekte\SudokuSolver\SudokuSolver\bin\Debug\net8.0\SudokuSolver.deps.json
+D:\Apps\Visual Studio Projekte\SudokuSolver\SudokuSolver\bin\Debug\net8.0\SudokuSolver.runtimeconfig.json
+D:\Apps\Visual Studio Projekte\SudokuSolver\SudokuSolver\bin\Debug\net8.0\SudokuSolver.dll
+D:\Apps\Visual Studio Projekte\SudokuSolver\SudokuSolver\bin\Debug\net8.0\SudokuSolver.pdb
+D:\Apps\Visual Studio Projekte\SudokuSolver\SudokuSolver\obj\Debug\net8.0\SudokuSolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\Visual Studio Projekte\SudokuSolver\SudokuSolver\obj\Debug\net8.0\SudokuSolver.AssemblyInfoInputs.cache
+D:\Apps\Visual Studio Projekte\SudokuSolver\SudokuSolver\obj\Debug\net8.0\SudokuSolver.AssemblyInfo.cs
+D:\Apps\Visual Studio Projekte\SudokuSolver\SudokuSolver\obj\Debug\net8.0\SudokuSolver.csproj.CoreCompileInputs.cache
+D:\Apps\Visual Studio Projekte\SudokuSolver\SudokuSolver\obj\Debug\net8.0\SudokuSolver.dll
+D:\Apps\Visual Studio Projekte\SudokuSolver\SudokuSolver\obj\Debug\net8.0\refint\SudokuSolver.dll
+D:\Apps\Visual Studio Projekte\SudokuSolver\SudokuSolver\obj\Debug\net8.0\SudokuSolver.pdb
+D:\Apps\Visual Studio Projekte\SudokuSolver\SudokuSolver\obj\Debug\net8.0\SudokuSolver.genruntimeconfig.cache
+D:\Apps\Visual Studio Projekte\SudokuSolver\SudokuSolver\obj\Debug\net8.0\ref\SudokuSolver.dll
